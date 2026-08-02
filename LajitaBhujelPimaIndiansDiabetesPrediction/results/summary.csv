@@ -1,0 +1,10 @@
+test_loss,test_accuracy,accuracy,precision,recall,f1_score,classification_report
+0.5026848316192627,0.7337662577629089,0.7337662337662337,0.6274509803921569,0.5925925925925926,0.6095238095238096,"              precision    recall  f1-score   support
+
+           0       0.79      0.81      0.80       100
+           1       0.63      0.59      0.61        54
+
+    accuracy                           0.73       154
+   macro avg       0.71      0.70      0.70       154
+weighted avg       0.73      0.73      0.73       154
+"
