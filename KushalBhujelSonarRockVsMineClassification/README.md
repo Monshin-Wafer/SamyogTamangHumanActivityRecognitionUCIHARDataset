@@ -1,8 +1,8 @@
 # KushalBhujelSonarRockVsMineClassification
 
-##Project Name:
+
 # Sonar Rock vs Mine Classification using ANN
-##Student Name:
+
 Kushal Bhujel
 
 ## Objective
