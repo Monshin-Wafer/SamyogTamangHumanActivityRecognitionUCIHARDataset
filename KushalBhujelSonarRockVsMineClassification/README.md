@@ -67,7 +67,6 @@ Test results:
 - Test loss: 0.5196
 
 The model performs reasonably well. There's some overfitting (training at 100% vs test at 81%), but that's expected with a small dataset.
-<img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/561cdfc3-f554-4b07-a1b4-b81610b637c4" />
 
 ## Confusion Matrix
 Test set performance:
@@ -84,7 +83,7 @@ Actual Rock     19     7
 - 1 mine called rock (false negative)
 - 15 mines correctly identified
 
-<img width="800" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/ee6d2b7c-d0f2-47b2-af4f-828a31ef3b9d" />
+
 
 
 ## Precision, Recall, F1-score
