@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.8101266026496887,
+  "test_loss": 0.4367530047893524,
+  "epochs_run": 45,
+  "num_features": 45
+}
